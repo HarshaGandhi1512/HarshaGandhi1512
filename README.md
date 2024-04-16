@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshaGandhi1512
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Google Data analytics from Coursera and python
-- 💞️ I’m looking to assist on few ongoing projects on a cosnultation basis without any remuneration expected 
+- 💞️ I’m looking to assist on few ongoing projects on a consultation basis without any remuneration expected 
 - 📫 You can send me mail on prof.harshagandhi@gmail.com
 
 <!---
